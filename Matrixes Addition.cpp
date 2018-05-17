@@ -54,6 +54,6 @@ size cant be different because you wont be
 able to do operation between matrixes.
 Have fun! :)
 
-Maximum size of matrix is 1000.
+Maximum size of matrix is 100.
 Maximum size of value is long long type.
 */
